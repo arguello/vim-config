@@ -7,9 +7,6 @@
 [submodule "bundle/undotree"]
 	path = bundle/undotree
 	url = git@github.com:mbbill/undotree.git
-[submodule "bundle/vim-colors-solarized"]
-	path = bundle/vim-colors-solarized
-	url = git@github.com:altercation/vim-colors-solarized.git
 [submodule "bundle/vim-commentary"]
 	path = bundle/vim-commentary
 	url = git@github.com:tpope/vim-commentary.git
@@ -31,9 +28,6 @@
 [submodule "bundle/python-syntax"]
 	path = bundle/python-syntax
 	url = git@github.com:hdima/python-syntax.git
-[submodule "bundle/ctrlp-py-matcher"]
-	path = bundle/ctrlp-py-matcher
-	url = git@github.com:FelikZ/ctrlp-py-matcher.git
 [submodule "bundle/elm-vim"]
 	path = bundle/elm-vim
 	url = git@github.com:ElmCast/elm-vim.git
@@ -94,3 +88,15 @@
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git@github.com:plasticboy/vim-markdown.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
+[submodule "bundle/nerdtree-git-plugin"]
+	path = bundle/nerdtree-git-plugin
+	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
+[submodule "bundle/syntastic-extras"]
+	path = bundle/syntastic-extras
+	url = git@github.com:myint/syntastic-extras.git
