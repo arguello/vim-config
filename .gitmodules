@@ -1,9 +1,6 @@
 [submodule "bundle/ctrlp.vim"]
 	path = bundle/ctrlp.vim
 	url = git@github.com:kien/ctrlp.vim.git
-[submodule "bundle/python-mode"]
-	path = bundle/python-mode
-	url = git@github.com:klen/python-mode.git
 [submodule "bundle/undotree"]
 	path = bundle/undotree
 	url = git@github.com:mbbill/undotree.git
@@ -13,27 +10,12 @@
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git@github.com:tpope/vim-fugitive.git
-[submodule "bundle/vim-haml"]
-	path = bundle/vim-haml
-	url = https://github.com/tpope/vim-haml
-[submodule "bundle/vim-ruby"]
-	path = bundle/vim-ruby
-	url = git@github.com:vim-ruby/vim-ruby.git
 [submodule "bundle/vim-scratch"]
 	path = bundle/vim-scratch
 	url = git@github.com:duff/vim-scratch.git
 [submodule "bundle/vim-sensible"]
 	path = bundle/vim-sensible
 	url = git@github.com:tpope/vim-sensible.git
-[submodule "bundle/python-syntax"]
-	path = bundle/python-syntax
-	url = git@github.com:hdima/python-syntax.git
-[submodule "bundle/elm-vim"]
-	path = bundle/elm-vim
-	url = git@github.com:ElmCast/elm-vim.git
-[submodule "bundle/indentLine"]
-	path = bundle/indentLine
-	url = git@github.com:Yggdroot/indentLine.git
 [submodule "bundle/papercolor-theme"]
 	path = bundle/papercolor-theme
 	url = git@github.com:NLKNguyen/papercolor-theme.git
@@ -43,48 +25,15 @@
 [submodule "bundle/vim-colors-pencil"]
 	path = bundle/vim-colors-pencil
 	url = git@github.com:reedes/vim-colors-pencil.git
-[submodule "bundle/vim-css3-syntax"]
-	path = bundle/vim-css3-syntax
-	url = git@github.com:hail2u/vim-css3-syntax.git
-[submodule "bundle/vim-elixir"]
-	path = bundle/vim-elixir
-	url = git@github.com:elixir-lang/vim-elixir.git
-[submodule "bundle/vim-endwise"]
-	path = bundle/vim-endwise
-	url = git@github.com:tpope/vim-endwise.git
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = git@github.com:airblade/vim-gitgutter.git
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
-[submodule "bundle/vim-json"]
-	path = bundle/vim-json
-	url = git@github.com:elzr/vim-json.git
-[submodule "bundle/vim-lfe"]
-	path = bundle/vim-lfe
-	url = git@github.com:lfex/vim-lfe.git
-[submodule "bundle/vim-luna"]
-	path = bundle/vim-luna
-	url = git@github.com:notpratheek/vim-luna.git
-[submodule "bundle/vim-monokai"]
-	path = bundle/vim-monokai
-	url = git@github.com:sickill/vim-monokai.git
 [submodule "bundle/vim-python-pep8-indent"]
 	path = bundle/vim-python-pep8-indent
 	url = https://github.com/hynek/vim-python-pep8-indent.git
-[submodule "bundle/vim-racket"]
-	path = bundle/vim-racket
-	url = git@github.com:wlangstroth/vim-racket.git
-[submodule "bundle/vim-slim"]
-	path = bundle/vim-slim
-	url = git@github.com:slim-template/vim-slim.git
-[submodule "bundle/vim-slime"]
-	path = bundle/vim-slime
-	url = git@github.com:jpalardy/vim-slime.git
-[submodule "bundle/vim-surround"]
-	path = bundle/vim-surround
-	url = git@github.com:tpope/vim-surround.git
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = git@github.com:plasticboy/vim-markdown.git
@@ -97,6 +46,3 @@
 [submodule "bundle/nerdtree-git-plugin"]
 	path = bundle/nerdtree-git-plugin
 	url = git@github.com:Xuyuanp/nerdtree-git-plugin.git
-[submodule "bundle/syntastic-extras"]
-	path = bundle/syntastic-extras
-	url = git@github.com:myint/syntastic-extras.git
